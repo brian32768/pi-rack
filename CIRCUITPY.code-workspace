@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../media/bwilson/CIRCUITPY"
+		},
+		{
+			"path": "../Adafruit_CircuitPython_Wiznet5k"
+		},
+		{
+			"path": "../Adafruit_CircuitPython_Bundle"
+		},
+		{
+			"path": "../circuitpython"
+		}
+	],
+	"settings": {}
+}
